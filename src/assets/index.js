@@ -19,6 +19,11 @@ import personal from "./tech/personal.png";
 import Cplus from "./tech/Cplus.png";
 import Python from "./tech/Python.png";
 import SQL from "./tech/SQL.png";
+import PHP from './tech/PHP.png'
+import Docker from './tech/Docker.png'
+import Postman from './tech/Postman.png'
+import Laravel from './tech/Laravel.png'
+
 
 import Website from "./Website.png";
 import Website1 from "./Website1.png"
@@ -32,6 +37,10 @@ export {
   developer,
   logo,
   mobile,
+  Docker,
+  Laravel,
+  Postman,
+  PHP,
   web,
   menu,
   close,

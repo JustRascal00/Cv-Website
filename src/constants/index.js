@@ -20,6 +20,10 @@ import {
     Website1,
     Website2,
     Website3,
+    PHP,
+    Laravel,
+    Postman,
+    Docker,
   } from "../assets";
 
   export const navLinks = [
@@ -84,6 +88,22 @@ import {
     {
       name: "SQL",
       icon: SQL,
+    },
+    {
+      name: "PHP",
+      icon: PHP,
+    },
+    {
+      name: "Docker",
+      icon: Docker,
+    },
+    {
+      name: "Postman",
+      icon: Postman,
+    },
+    {
+      name: "Laravel",
+      icon: Laravel,
     },
   ];
   
